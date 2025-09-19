@@ -91,13 +91,13 @@
 
 <!-- SECTION 2: Accepted -->
 <div id="accepted-section" class="section">
-  <img src="https://phamvulinh18.github.io/crush4/img/cat-yes.jpg" alt="Mèo vui dễ thương" onerror="this.onerror=null;this.src='https://i.imgur.com/nW1zQHQ.jpg';">
+  <img src="https://phamvulinh18.github.io/crush4/img/cat-yes.jpg" alt="Mèo vui dễ thương" onerror="this.onerror=null;this.src='file:///C:/Users/xxx/Downloads/crush4-main/crush4-main/img/cat-0.jpg';">
   <p class="message">Iem cảm ơn chị iuuu, hứa hong làm chị buồn nữa đâu ạ :3 💕</p>
 </div>
 
 <!-- SECTION 3: Rejected -->
 <div id="rejected-section" class="section">
-  <img src="https://phamvulinh18.github.io/crush4/img/cat-1.jpg" alt="Mèo buồn dễ thương" onerror="this.onerror=null;this.src='https://i.imgur.com/w1UJ0Ht.png';">
+  <img src="https://phamvulinh18.github.io/crush4/img/cat-1.jpg" alt="Mèo buồn dễ thương" onerror="this.onerror=null;this.src='file:///C:/Users/xxx/Downloads/crush4-main/crush4-main/img/cat-3.jpg';">
   <p class="message">Em biết lỗi rồi ạ 😔</p>
 </div>
 
