@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Chinnhoi>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
@@ -81,10 +81,10 @@
 <!-- SECTION 1: Giao diện chính -->
 <div id="main-section" class="section visible">
   <img src="https://media.giphy.com/media/SVkhYVCi8fKPKvypi6/giphy.gif" alt="Mèo khóc dễ thương" onerror="this.onerror=null;this.src='https://i.imgur.com/TzWcihb.jpg';">
-  <p class="title">Chị iu ơi choo iêm xinn lỗi nhóooo 😭</p>
-  <span>Chị hong chọn hoặc thoát là tha lỗi cho iem đó</span>
+  <p class="title">Chị ơi choo iêm xinn lỗi nhóooo 😭</p>
+  <span> hong chọn hoặc thoát là tha lỗi cho iem đó</span>
   <div class="buttons">
-    <button class="btn-yes" onclick="showSection('accepted')">Chị đồng ý 💖</button>
+    <button class="btn-yes" onclick="showSection('accepted')"> đồng ý </button>
     <button class="btn-no" onclick="showSection('rejected')">Không 😢</button>
   </div>
 </div>
